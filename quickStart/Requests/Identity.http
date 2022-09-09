@@ -1,0 +1,9 @@
+@host = https://localhost:6001
+
+GET {{host}}/identity
+# Content-Type: application/json
+
+# {
+    
+# }
+

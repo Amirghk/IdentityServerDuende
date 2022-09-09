@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iiZ6iKCcDN6kQ/suo+i3LC3/HG5/wgjErYbSPEsYj+eVP62vunVXeix4AbmSgtfhWII7fLxsfgeHguTAcY17xg==",
+  "success": true,
+  "projectFilePath": "G:\\C# Projects\\IdentityServerWithDuende\\quickStart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lion\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

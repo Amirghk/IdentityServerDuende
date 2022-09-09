@@ -1,0 +1,17 @@
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\bin\Debug\net6.0\Client.exe
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\bin\Debug\net6.0\Client.deps.json
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\bin\Debug\net6.0\Client.dll
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\bin\Debug\net6.0\Client.pdb
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\bin\Debug\net6.0\IdentityModel.dll
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.dll
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\refint\Client.dll
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.pdb
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+G:\C# Projects\IdentityServerWithDuende\quickStart\src\Client\obj\Debug\net6.0\ref\Client.dll
