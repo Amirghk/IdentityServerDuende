@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\C# Projects\IdentityServerWithDuende\quickStart\src\WebClient
 build_property._RazorSourceGeneratorDebug = 
 
+[G:/C\# Projects/IdentityServerWithDuende/quickStart/src/WebClient/Pages/CallApi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbEFwaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/C\# Projects/IdentityServerWithDuende/quickStart/src/WebClient/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

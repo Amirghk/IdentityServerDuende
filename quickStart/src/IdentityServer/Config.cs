@@ -66,11 +66,15 @@ public static class Config
                     // where to redirect to after logout
                     PostLogoutRedirectUris = { "https://localhost:5002/signout-callback-oidc"},
 
+                    // enable support for refresh tokens
+                    AllowOfflineAccess = true,
+
                     // list of scopes that client is allowed to ask for
                     AllowedScopes = new List<string> {
                         IdentityServerConstants.StandardScopes.OpenId,
                         IdentityServerConstants.StandardScopes.Profile,
-                        "verification"
+                        "verification",
+                        "api1"
                     }
                 }
              };
